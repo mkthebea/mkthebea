@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Minkyung%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFCCCC&height=300&section=header&text=Minkyung%20Kim&fontSize=90)
 
 <h2 align="center">📚 Technology Stack 📚</h2>
 <p align="center">
