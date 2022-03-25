@@ -1,16 +1,24 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Minkyung%20Kim&fontSize=90)
 
-<!--
-**mkthebea/mkthebea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">📚 Technology Stack 📚</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-FF0033?logo=JavaScript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-HTML-FF0066?logo=HTML5&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-CSS-FF3399?logo=CSS3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-React-FF6666?logo=React&logoColor=white"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-C-brightgreen?logo=C&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVA-660066?logo=Java&logoColor=white"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-AWS-black?logo=Amazon AWS&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Git-black?logo=Git&logoColor=white"/>&nbsp
+</p>
 
-Here are some ideas to get you started:
+<br>
+<p align="center">➰➰➰</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://ant-hill.tistory.com/"><img src="https://img.shields.io/badge/-Blog-orange?logo=Blogger&logoColor=white"/></a>
+</p>
