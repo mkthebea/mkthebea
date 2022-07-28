@@ -1,5 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFCCCC&height=300&section=header&text=Minkyung%20Kim&fontSize=90)
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFCCCC&height=300&section=header&text=Minkyung%20Kim&fontSize=90)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mkthebea&&show_icons=true&theme=buefy)](https://github.com/mkthebea)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkthebea&layout=compact)](https://github.com/mkthebea/github-readme-stats)
+
+<br><br>
 <h2 align="center">📚 Technology Stack 📚</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-FF0033?logo=JavaScript&logoColor=white"/>&nbsp
@@ -22,8 +26,3 @@
 <p align="center">
   <a href="https://ant-hill.tistory.com/"><img src="https://img.shields.io/badge/-Blog-orange?logo=Blogger&logoColor=white"/></a>
 </p>
-<br>
-<div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkthebea&show_icons=true&theme=solarized-light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkthebea&layout=compact&theme=solarized-light)
-</div>
