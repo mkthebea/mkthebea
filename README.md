@@ -22,3 +22,8 @@
 <p align="center">
   <a href="https://ant-hill.tistory.com/"><img src="https://img.shields.io/badge/-Blog-orange?logo=Blogger&logoColor=white"/></a>
 </p>
+<br>
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkthebea&show_icons=true&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkthebea&layout=compact&theme=solarized-light)
+</div>
