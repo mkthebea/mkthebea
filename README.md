@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&height=300&section=header&text=Minkyung%20Kim&fontSize=90&fontColor=FFFFFF)
 
-<br>
-<p align="center">🛠 Technology Stack 🛠</p>
+### <p align="center">🛠 Technology Stack 🛠</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-FF0033?logo=JavaScript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-HTML-FF0066?logo=HTML5&logoColor=white"/>&nbsp
@@ -17,13 +16,15 @@
 </p>
 
 <br>
-<p align="center">🪑 Study 🪑</p>
+
+### <p align="center">🪑 Study 🪑</p>
 <p align="center">
   <a href="https://ant-hill.tistory.com/"><img src="https://img.shields.io/badge/-Blog-orange?logo=Blogger&logoColor=white"/></a>
 </p>
 
 <br>
-<p align="center">📚 Stats 📚</p>
+
+### <p align="center">📚 Stats 📚</p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkthebea&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MK's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkthebea&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
