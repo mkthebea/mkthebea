@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFCCCC&height=300&section=header&text=Minkyung%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=300&section=header&text=Minkyung%20Kim&fontSize=90)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mkthebea&&show_icons=true&theme=buefy&layout=compact)](https://github.com/mkthebea)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkthebea&layout=compact)](https://github.com/mkthebea/github-readme-stats)
 
@@ -26,3 +25,5 @@
 <p align="center">
   <a href="https://ant-hill.tistory.com/"><img src="https://img.shields.io/badge/-Blog-orange?logo=Blogger&logoColor=white"/></a>
 </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=200&section=footer)
