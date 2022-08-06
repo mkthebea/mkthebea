@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFCCCC&height=300&section=header&text=Minkyung%20Kim&fontSize=90)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mkthebea&&show_icons=true&theme=buefy)](https://github.com/mkthebea)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mkthebea&&show_icons=true&theme=buefy&layout=compact)](https://github.com/mkthebea)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkthebea&layout=compact)](https://github.com/mkthebea/github-readme-stats)
 
 <br><br>
