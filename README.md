@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/-HTML-FF0066?logo=HTML5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-CSS-FF3399?logo=CSS3&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-React-FF6666?logo=React&logoColor=white"/>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-C-brightgreen?logo=C&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-black?logo=Amazon AWS&logoColor=white"/>&nbsp
