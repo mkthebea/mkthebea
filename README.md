@@ -8,9 +8,11 @@
   <img src="https://img.shields.io/badge/-React-FF6666?logo=React&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-C++-blueviolet?logo=C%2B%2B&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-C-brightgreen?logo=C&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-AWS-black?logo=Amazon AWS&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-660066?logo=Java&logoColor=white"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-AWS-black?logo=Amazon AWS&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black?logo=Git&logoColor=white"/>&nbsp
 </p>
 
