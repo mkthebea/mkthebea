@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFE4E1&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=100&section=header)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkthebea&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="MK's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkthebea&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -21,4 +21,4 @@
   <img src="https://img.shields.io/badge/-Git-black?logo=Git&logoColor=white"/>&nbsp
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFE4E1&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=100&section=footer)
