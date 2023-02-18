@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&height=200&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFE4E1&height=150&section=header)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkthebea&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MK's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkthebea&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<br>
 
 ### <p align="center">🛠 Technology Stack 🛠</p>
 <p align="center">
@@ -18,18 +23,12 @@
 
 <br>
 
-### <p align="center">🪑 Study 🪑</p>
-<p align="center">
+#### <p align="right">🔗 Study Record🔗</p>
+<p align="right">
+  <span>ant-hill&nbsp&nbsp&nbsp</span>
   <a href="https://ant-hill.tistory.com/"><img src="https://img.shields.io/badge/-Blog-orange?logo=Blogger&logoColor=white"/></a>
 </p>
 
 <br>
 
-### <p align="center">📚 Stats 📚</p>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkthebea&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MK's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkthebea&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<br>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F08080&height=100&section=footer)
