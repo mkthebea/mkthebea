@@ -21,11 +21,4 @@
   <img src="https://img.shields.io/badge/-Git-black?logo=Git&logoColor=white"/>&nbsp
 </p>
 
-<br>
-
-<p align="right">
-  <span>🔗&nbspAnt-hill&nbsp</span>
-  <a href="https://ant-hill.tistory.com/"><img src="https://img.shields.io/badge/-Blog-lightgrey?logo=Tistory&logoColor=white"/></a>
-</p>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFE4E1&height=100&section=footer)
