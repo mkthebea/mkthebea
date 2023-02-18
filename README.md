@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&height=300&section=header&text=Minkyung%20Kim&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&height=200&section=header)
 
 ### <p align="center">🛠 Technology Stack 🛠</p>
 <p align="center">
