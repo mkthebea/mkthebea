@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFE4E1&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F08080&height=100&section=header)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkthebea&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MK's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkthebea&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -24,8 +24,8 @@
 <br>
 
 <p align="right">
-  <span>🔗Ant-hill&nbsp&nbsp</span>
-  <a href="https://ant-hill.tistory.com/"><img src="https://img.shields.io/badge/-Blog-orange?logo=Blogger&logoColor=white"/></a>
+  <span>🔗&nbspAnt-hill&nbsp</span>
+  <a href="https://ant-hill.tistory.com/"><img src="https://img.shields.io/badge/-Blog-lightgrey?logo=Tistory&logoColor=white"/></a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=F08080&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFE4E1&height=100&section=footer)
