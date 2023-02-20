@@ -21,4 +21,6 @@
   <img src="https://img.shields.io/badge/-Git-black?logo=Git&logoColor=white"/>&nbsp
 </p>
 
+![snake gif](https://github.com/mkthebea/mkthebea/blob/output/github-contribution-grid-snake.svg)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=100&section=footer)
