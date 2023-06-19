@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=100&section=header)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkthebea&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="MK's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkthebea&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkthebea&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="MK's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkthebea&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
